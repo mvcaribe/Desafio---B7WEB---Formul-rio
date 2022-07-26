@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(31, 123, 228, 0.849);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: #555;
+}
+form {
+    background-color: #FFF;
+}
+h1 {
+    text-align: center;
+}
+.input-area-line {
+    display: flex;
+}
+.input-area {
+    padding: 40px;
+}
